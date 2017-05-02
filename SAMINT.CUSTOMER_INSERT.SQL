@@ -1,0 +1,26 @@
+
+INSERT INTO SAMINT.CUSTOMER (
+cnumber,
+CNAME,
+ONAME,
+ADDR1,
+ADDR2,
+POBOX,
+CITY,
+COUNTRY,
+CURRENCY,
+CONT_PER_NAME,
+PHONE_NUMBER,
+MAIL_ID) VALUES(
+0,
+'Vijay Anand',
+'Digital',
+'Addr1',
+'Addr2',
+'pobox',
+'city',
+'country',
+'CAD',
+'cont_per_name',
+200,
+'vijayanand@ds.com');
